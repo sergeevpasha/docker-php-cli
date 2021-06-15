@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/sergeevpasha/docker-php-cli/badge)](https://www.codefactor.io/repository/github/sergeevpasha/docker-php-cli)
+[![Docker Image CI](https://github.com/sergeevpasha/docker-php-cli/actions/workflows/dockerimage.yml/badge.svg)](https://github.com/sergeevpasha/docker-php-cli/actions/workflows/dockerimage.yml)
 # PHP-CLI
 
 Built on PHP 8.0-CLI image
